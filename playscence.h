@@ -21,5 +21,6 @@ signals:
     void chooseScenceBack();
 
 };
+// hyfttgft
 
 #endif // PLAYSCENCE_H
